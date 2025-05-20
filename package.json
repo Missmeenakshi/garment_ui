@@ -1,5 +1,5 @@
 {
-  "homepage": "https://github.com/Missmeenakshi/garment_ui.git",
+  "homepage": "https://Missmeenakshi.github.io/garment_ui",
   "name": "garment_ui",
   "version": "0.1.0",
   "private": true,
@@ -17,7 +17,7 @@
     "tailwind-variants": "^1.0.0",
     "web-vitals": "^2.1.4"
   },
-  "scripts": {
+  "scripts": {  
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "start": "react-scripts start",
