@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Missmeenakshi/garment_ui.git/static/css/main.049006fc.css",
-    "main.js": "/Missmeenakshi/garment_ui.git/static/js/main.ceb7efd1.js",
-    "static/js/453.c8a85fa3.chunk.js": "/Missmeenakshi/garment_ui.git/static/js/453.c8a85fa3.chunk.js",
-    "static/media/logo.svg": "/Missmeenakshi/garment_ui.git/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/Missmeenakshi/garment_ui.git/index.html",
-    "main.049006fc.css.map": "/Missmeenakshi/garment_ui.git/static/css/main.049006fc.css.map",
-    "main.ceb7efd1.js.map": "/Missmeenakshi/garment_ui.git/static/js/main.ceb7efd1.js.map",
-    "453.c8a85fa3.chunk.js.map": "/Missmeenakshi/garment_ui.git/static/js/453.c8a85fa3.chunk.js.map"
+    "main.css": "/garment_ui/static/css/main.049006fc.css",
+    "main.js": "/garment_ui/static/js/main.45936374.js",
+    "static/js/453.c8a85fa3.chunk.js": "/garment_ui/static/js/453.c8a85fa3.chunk.js",
+    "static/media/logo.svg": "/garment_ui/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/garment_ui/index.html",
+    "main.049006fc.css.map": "/garment_ui/static/css/main.049006fc.css.map",
+    "main.45936374.js.map": "/garment_ui/static/js/main.45936374.js.map",
+    "453.c8a85fa3.chunk.js.map": "/garment_ui/static/js/453.c8a85fa3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.049006fc.css",
-    "static/js/main.ceb7efd1.js"
+    "static/js/main.45936374.js"
   ]
 }
